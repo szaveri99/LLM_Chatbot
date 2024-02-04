@@ -73,6 +73,8 @@ python kill_process.py
 
 Make sure to run this script when needed to free up the port.
 
+## Link for the App: http://f75e-35-186-163-228.ngrok-free.app
+
 ## Contributors
 
 - Sakina Zaveri (@szaveri99)
